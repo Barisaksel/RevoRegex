@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+src/revoregex/__init__.py
+src/revoregex/matcher.py
+src/revoregex.egg-info/PKG-INFO
+src/revoregex.egg-info/SOURCES.txt
+src/revoregex.egg-info/dependency_links.txt
+src/revoregex.egg-info/top_level.txt
+tests/test.py
+tests/test_matcher.py

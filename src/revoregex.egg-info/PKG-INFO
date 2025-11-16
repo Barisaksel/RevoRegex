@@ -1,0 +1,42 @@
+Metadata-Version: 2.4
+Name: revoregex
+Version: 0.1.0
+Summary: A multilingual regex library for Python (Turkish, English, more coming)
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-python
+Dynamic: summary
+
+# RevoRegex
+
+A multilingual regex library for Python with Turkish and English support. Easily extendable for more languages.
+
+## Features
+- Regex utilities with language-specific patterns
+- Turkish and English support (more languages coming soon)
+- Ready for PyPI publishing
+
+## Installation
+```bash
+pip install revoregex
+```
+
+## Usage
+```python
+from revoregex import RegexMatcher
+matcher = RegexMatcher(language='tr')
+result = matcher.match('sayÄ±', '1234')
+```
+
+## License
+MIT

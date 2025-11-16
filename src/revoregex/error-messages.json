@@ -1,0 +1,50 @@
+{
+  "en": {
+    "pattern_not_found": "Pattern key '{pattern_key}' not found for language '{language}.",
+    "invalid_format": "Invalid format.",
+    "ip_octet_count": "IP address must have 4 octets.",
+    "ip_octet_range": "IP octet '{part}' must be in 0-255.",
+    "ip_error": "Error during IP address validation.",
+    "iban_invalid_char": "Invalid character in IBAN format.",
+    "iban_mod97": "IBAN is invalid according to mod-97 algorithm.",
+    "iban_error": "Error during IBAN validation.",
+    "cc_digits": "Credit card number must contain only digits.",
+    "cc_luhn": "Credit card is invalid according to Luhn algorithm."
+  },
+  "tr": {
+    "pattern_not_found": "'{pattern_key}' anahtarı '{language}' dili için bulunamadı.",
+    "invalid_format": "Format hatası.",
+    "ip_octet_count": "IP adresi 4 oktetten oluşmalı.",
+    "ip_octet_range": "IP oktet '{part}' 0-255 aralığında olmalı.",
+    "ip_error": "IP adresi kontrolünde hata.",
+    "iban_invalid_char": "IBAN formatında geçersiz karakter.",
+    "iban_mod97": "IBAN mod-97 algoritmasına göre geçersiz.",
+    "iban_error": "IBAN algoritmasında hata.",
+    "cc_digits": "Kredi kartı numarası rakamlardan oluşmalı.",
+    "cc_luhn": "Kredi kartı Luhn algoritmasına göre geçersiz."
+  },
+  "de": {
+    "pattern_not_found": "Pattern-Schlüssel '{pattern_key}' für Sprache '{language}' nicht gefunden.",
+    "invalid_format": "Ungültiges Format.",
+    "ip_octet_count": "IP-Adresse muss aus 4 Oktetten bestehen.",
+    "ip_octet_range": "IP-Oktett '{part}' muss im Bereich 0-255 liegen.",
+    "ip_error": "Fehler bei der IP-Adressprüfung.",
+    "iban_invalid_char": "Ungültiges Zeichen im IBAN-Format.",
+    "iban_mod97": "IBAN ist nach dem Mod-97-Algorithmus ungültig.",
+    "iban_error": "Fehler bei der IBAN-Prüfung.",
+    "cc_digits": "Kreditkartennummer darf nur Ziffern enthalten.",
+    "cc_luhn": "Kreditkarte ist nach dem Luhn-Algorithmus ungültig."
+  },
+  "fr": {
+    "pattern_not_found": "Clé de motif '{pattern_key}' introuvable pour la langue '{language}'.",
+    "invalid_format": "Format invalide.",
+    "ip_octet_count": "L'adresse IP doit comporter 4 octets.",
+    "ip_octet_range": "L'octet IP '{part}' doit être compris entre 0 et 255.",
+    "ip_error": "Erreur lors de la validation de l'adresse IP.",
+    "iban_invalid_char": "Caractère invalide dans le format IBAN.",
+    "iban_mod97": "IBAN invalide selon l'algorithme mod-97.",
+    "iban_error": "Erreur lors de la validation de l'IBAN.",
+    "cc_digits": "Le numéro de carte bancaire doit contenir uniquement des chiffres.",
+    "cc_luhn": "Carte bancaire invalide selon l'algorithme de Luhn."
+  }
+}
